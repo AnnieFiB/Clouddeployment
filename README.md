@@ -7,6 +7,9 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-E36209?logo=databricks&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-2C2D72?logo=apache-spark&logoColor=white)
+[![Apache Beam](https://img.shields.io/badge/Apache%20Beam-latest-orange?logo=apache&logoColor=white)](https://beam.apache.org/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 
 
 ## Repository Structure
